@@ -162,7 +162,7 @@ tags:
 本技能位于"聚焦改善"环节，与改进类技能衔接：
 
 - **上游**：现状梳理可先借 `swot-analysis` / `process-turtle` 界定系统边界；
-- **下游**：识别出的突破方案，移交 `cqi-improvement` 做专项持续改进、或 `raci-matrix` 落实责任；
+- **下游**：识别出的突破方案，移交 `cqi-special-process`（特殊过程CQI评估辅助）做专项评估提升、或 `raci-matrix` 落实责任；
 - **横向**：与 `8d-report-assistant` / `capa-management` 协同——重大约束往往也是 CAPA 来源；
 - **专项量化**：若约束落在产线工序，转 `TOC瓶颈改善` 做数据级瓶颈测算。
 

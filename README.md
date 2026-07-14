@@ -35,4 +35,4 @@
 - 强制交互锁：Agent 绝不替用户指认约束或决定方案。
 
 ## 联动
-上游 `swot-analysis` / `process-turtle`；下游 `cqi-improvement` / `raci-matrix`；产线量化转 `TOC瓶颈改善`。
+上游 `swot-analysis` / `process-turtle`；下游 `cqi-special-process`（特殊过程CQI评估辅助） / `raci-matrix`；产线量化转 `TOC瓶颈改善`。
